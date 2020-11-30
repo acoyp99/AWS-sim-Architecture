@@ -2,7 +2,7 @@
 
 _Este repositorio cuenta con la guia para la ejecución del código en terraform para IaC en AWS con la siguiente arquitectura_
 
-<img width="940" alt="/architecture.jpg">
+<img width="940" alt="/architecture.JPG">
 
 ## Contenido 📋
 
