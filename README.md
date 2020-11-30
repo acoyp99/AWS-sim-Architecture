@@ -7,8 +7,11 @@ Este repositorio cuenta con las carpetas de:
       34.252.40.139:80
       ec2-34-252-40-139.eu-west-1.compute.amazonaws.com:80
   ```
-3. djangoAPI que es la aplicación BackEnd en Django subida a Docker y desplegada en un EC2 
-  ``` 
-      54.246.248.73:8000
-      ec2-54-246-248-73.eu-west-1.compute.amazonaws.com:8000
+  
+### Django API
+Para el API de Django se usó la imagen pública **camandel/django-wiki** que contenía la configuración del direccionamiento :8000/admin configurado
   ```
+      34.247.251.232:8000
+      ec2-34-247-251-232.eu-west-1.compute.amazonaws.com:8000
+  ```
+
