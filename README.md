@@ -2,7 +2,7 @@
 
 _Este repositorio cuenta con la guia para la ejecución del código en terraform para IaC en AWS con la siguiente arquitectura_
 
-<img width="940" alt="/architecture.png">
+<img width="940" alt="AWS-Architecture" src="architecture.png">
 
 ## Contenido 📋
 
@@ -24,8 +24,11 @@ Para la ejecución del código se requiere tener el terraform CLI instalado y ej
 
 ```
 terraform init
+
 terraform validate
+
 terraform plan
+
 terraform apply -var access_key="<access key de la cuenta AWS>" -var secret_key="<secret key de la cuenta AWS>"
 ```
 
